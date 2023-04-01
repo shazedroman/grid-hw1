@@ -1,0 +1,9 @@
+.t_center{
+	text-align: center;
+	color: green;
+}
+.box{
+	margin-bottom: 10px;
+    height: 100px;
+	background-color: limegreen;
+}
